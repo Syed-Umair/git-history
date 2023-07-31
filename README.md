@@ -2,5 +2,5 @@
 
 ## Changelog
 
-- added hi.md
+- added hello.md
 - added feature-1.md
